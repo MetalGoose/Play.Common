@@ -1,6 +1,6 @@
 namespace Play.Common.Settings
 {
-    class MongoDbSettings
+    public class MongoDbSettings
     {
         public string Host { get; init; }
         public string Port { get; init; }
